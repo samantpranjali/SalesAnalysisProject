@@ -1,2 +1,1 @@
-# SalesAnalysisProject
-Data analysis project using Excel/Google Sheets to generate insights, dashboards, and sales reports for business decision-making.
+This project involves analyzing sales data to extract meaningful insights and support business decision-making. It includes data cleaning, transformation, and visualization using Excel/Google Sheets. Interactive dashboards with pivot tables, charts, and slicers are created to identify sales trends, top-performing products, regional performance, and customer behavior.
